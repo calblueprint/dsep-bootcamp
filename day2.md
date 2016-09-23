@@ -41,6 +41,8 @@ then `docker stop <container>`, then `docker run` the minimal notebook image.
 Mount your home directory to the container so that notebooks will persist
 across runs.
 
+See https://docs.docker.com/engine/tutorials/dockervolumes/ for the docs.
+
 ## Adding dependencies
 
 We'd like the `numpy` library but it's not installed. Install it by running
