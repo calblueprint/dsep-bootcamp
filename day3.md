@@ -116,7 +116,7 @@ the last 100 lines.)
 This is very, very useful for finding errors.
 
 I've mentioned the Interact server before. That's isn't running in a container,
-but we can find out where its logging by looking for its process:
+but we can find out where it's logging by looking for its process:
 
     root@hub-dev:~# ps aux | grep interact
     root     31166  0.0  0.0  10320   160 ?        S    Sep11   0:00 daemon -n interact -o /var/log/interact.log --chdir=/srv -- python3 /srv/interact/run.py --production
