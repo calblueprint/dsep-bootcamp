@@ -31,8 +31,8 @@ Follow [this tutorial][tut1] from [Coursera's Startup Engineering][coursera].
 Just go up to the Linux Basics section and stop. We'll talk about what we just
 read.
 
-[coursera]: http://online.stanford.edu/course/startup-engineering
-[tut1]: https://dl.dropboxusercontent.com/content_link/O28rk9NhRKHmF13I9pXswhpAgpxCPsj8gtPmCI9Y80h5L30NtjhxsIxyIGhCXCju/file
+[tut2]: https://drive.google.com/file/d/0B6nL03OcEigncUxXNnNmV3VuN1U/view?usp=sharing
+[tut1]: https://drive.google.com/file/d/0B6nL03OcEignTGowRkNCZzN6T00/view?usp=sharing
 
 *Insert discussion here*
 
